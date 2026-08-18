@@ -1,2 +1,2 @@
 # exercicios-ebac
-Exercício de Qualidade de Software da EBAC
+Exercício de Gherkin - Engenharia de Qualidade de Software
